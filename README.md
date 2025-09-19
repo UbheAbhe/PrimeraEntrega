@@ -18,7 +18,7 @@ El repositorio tendrá un avance progresivo, ya que no solo servirá de material
 Constara con diversos HTMLS que contendrán información e imágenes sobre cada código de git utilizado a lo largo del desarrollo del repositorio
 
 # Objetivo Final:
-Nuestro objetivo final es poder dar a conocer de una manera sencilla los códigos básicos de uso del git y demostrar que no es tan difícil como parece
+Nuestro objetivo final es poder dar a conocer de una manera sencilla los códigos básicos de uso del git y demostrar que no es tan difícil como parece.
 
 
 ## Tecnologías Usadas
