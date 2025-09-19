@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 
-## Descripción general del proyecto
+## Descripción general del proyectA
 
 # Introduccion:
 El presente repositorio tiene como objetivo servir de guía como un formato blog o guía(tutorial), que pueda ser de utilidad para cualquier persona que este comenzando con el estudio y practicas del aplicativo Git.
