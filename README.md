@@ -21,7 +21,7 @@ Constara con diversos HTMLS que contendrán información e imágenes sobre cada 
 Nuestro objetivo final es poder dar a conocer de una manera sencilla los códigos básicos de uso del git y demostrar que no es tan difícil como parece
 
 
-## :mag_right: Tecnologías Usadas
+## Tecnologías Usadas
 
 - *Backend*:
     - Spring Boot
@@ -40,4 +40,4 @@ Nuestro objetivo final es poder dar a conocer de una manera sencilla los código
 | Antoni2     | `git branch` <br> `git branch --no-merge` <br> `git switch -c` <br> `git checkout -b` <br> `git merge` |
 
 ## Estructura del Proyecto
-<img src="https://portalestudiante.utp.edu.pe/Images/newlogoUTP.jpg" width=22px height=25px>
+<img src="/src/main/imagenes/Estructura1.png" width=22px height=25px>
