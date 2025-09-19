@@ -40,4 +40,4 @@ Nuestro objetivo final es poder dar a conocer de una manera sencilla los código
 | Antoni2     | `git branch` <br> `git branch --no-merge` <br> `git switch -c` <br> `git checkout -b` <br> `git merge` |
 
 ## Estructura del Proyecto
-<img src="/src/main/imagenes/Estructura2.png" width=auto height=auto>
+<img src="/src/main/imagenes/Estructura3.png" width=auto height=auto>
