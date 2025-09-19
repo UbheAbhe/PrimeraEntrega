@@ -39,3 +39,5 @@ Nuestro objetivo final es poder dar a conocer de una manera sencilla los código
 | Cavani      | `git status` <br> `git add .` <br> `git commit -m` <br> `git commit --amend -m` <br> `git log --oneline` |
 | Antoni2     | `git branch` <br> `git branch --no-merge` <br> `git switch -c` <br> `git checkout -b` <br> `git merge` |
 
+## Estructura del Proyecto
+<img src="https://portalestudiante.utp.edu.pe/Images/newlogoUTP.jpg" width=22px height=25px>
